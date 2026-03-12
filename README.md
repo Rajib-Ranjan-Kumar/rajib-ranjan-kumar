@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Rajib Ranjan Kumar
 
-<!--
-**Rajib-Ranjan-Kumar/rajib-ranjan-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at KIIT University  
+💻 Passionate about Software Development, AI, and Data Science  
 
-Here are some ideas to get you started:
+### 🚀 Currently
+- 🌱 Learning **Data Science, and Machine Learning**
+- 💡 Practicing **Data Structures & Algorithms**
+- 🔭 Building **Android apps and AI-powered projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, Kotlin, Python  
+- **Frameworks:** Jetpack Compose, FastAPI  
+- **Tools:** Git, GitHub, Streamlit  
+
+### 🤝 Looking to Collaborate On
+- Android Development Projects  
+- AI / ML / Data Science Projects  
+
+### 💬 Ask Me About
+- Android Development  
+- Data Structures & Algorithms  
+- Beginner AI / ML Projects  
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Rajib-Ranjan-Kumar
+
+⚡ **Fun Fact:** I enjoy building apps that combine **AI with real-world solutions.**
